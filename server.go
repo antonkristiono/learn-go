@@ -1,8 +1,8 @@
 package main
 
 import (
-	"database/sql"
-	"simpleapi/handlers"
+	// "database/sql"
+	// "simpleapi/handlers"
 	"net/http"
 
 	"github.com/labstack/echo/v4"
